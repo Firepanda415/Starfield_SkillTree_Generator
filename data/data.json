@@ -1,0 +1,2240 @@
+{
+  "generated_at": "2026-04-10T08:10:18.298584+00:00",
+  "sources": {
+    "skills_summary": "https://nukesdragons.com/starfield/db/skills",
+    "backgrounds": "https://nukesdragons.com/starfield/db/backgrounds",
+    "perk_ids": "https://game8.co/games/Starfield/archives/423662"
+  },
+  "skills": [
+    {
+      "id": "boxing",
+      "name_en": "Boxing",
+      "name_zh": "拳击",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Unarmed attacks do 25% more damage. 25% less O2 used when using a power attack.",
+      "summary_zh": "徒手攻击造成的伤害提高 25%。使用强力攻击时，氧气用量减少 25%。",
+      "rank_effects_en": [
+        "Unarmed attacks do 25% more damage. 25% less O2 used when using a power attack.",
+        "Unarmed attacks do 50% more damage. 50% less O2 used when using a power attack.",
+        "Unarmed attacks do 75% more damage. While in a fight and unarmed, running consumes 30% less O2.",
+        "Unarmed attacks do 100% more damage and have a chance to knock down opponents."
+      ],
+      "rank_effects_zh": [
+        "徒手攻击造成的伤害提高 25%。使用强力攻击时，氧气用量减少 25%。",
+        "徒手攻击造成的伤害增加 50%。使用强力攻击时，氧气用量减少 50%。",
+        "徒手攻击造成的伤害提高 75%。在徒手战斗时，跑步消耗的氧气量减少 30%。",
+        "徒手攻击造成的伤害提高 100%，并有机会击倒对手。"
+      ],
+      "perk_id": "002C59DF"
+    },
+    {
+      "id": "fitness",
+      "name_en": "Fitness",
+      "name_zh": "健身",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "You have 10% more oxygen available.",
+      "summary_zh": "您的可用氧气量增加了 10%。",
+      "rank_effects_en": [
+        "You have 10% more oxygen available.",
+        "You have 20% more oxygen available.",
+        "You have 30% more oxygen available.",
+        "Sprinting and power attacks now use significantly less oxygen."
+      ],
+      "rank_effects_zh": [
+        "您的可用氧气量增加了 10%。",
+        "您的可用氧气量增加了 20%。",
+        "您的可用氧气量增加了 30%。",
+        "冲刺和力量攻击现在使用的氧气明显减少。"
+      ],
+      "perk_id": "002CE2DD"
+    },
+    {
+      "id": "stealth",
+      "name_en": "Stealth",
+      "name_zh": "潜行",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Adds a Stealth Meter. You are 25% more difficult to detect when sneaking. Suppressed weapons do an additional 5% sneak attack damage.",
+      "summary_zh": "添加隐形仪表。潜行时你更难被发现 25%。抑制武器会造成额外 5% 的偷袭伤害。",
+      "rank_effects_en": [
+        "Adds a Stealth Meter. You are 25% more difficult to detect when sneaking. Suppressed weapons do an additional 5% sneak attack damage.",
+        "Upgrades the Stealth Meter. You are 50% more difficult to detect when sneaking. Suppressed weapons do an additional 10% sneak attack damage.",
+        "You are 75% more difficult to detect when sneaking. Suppressed weapons do an additional 15% sneak attack damage.",
+        "You are 100% more difficult to detect when sneaking. Suppressed weapons do an additional 20% sneak attack damage. Doors you interact with while in stealth no longer alert enemies."
+      ],
+      "rank_effects_zh": [
+        "添加隐形仪表。潜行时你更难被发现 25%。抑制武器会造成额外 5% 的偷袭伤害。",
+        "升级隐形仪表。潜行时你更难被发现 50%。抑制武器会造成额外 10% 的偷袭伤害。",
+        "潜行时你更难被发现 75%。抑制武器会造成额外 15% 的偷袭伤害。",
+        "潜行时你更难被发现 100%。抑制武器会造成额外 20% 的偷袭伤害。你在隐身状态下与之互动的门不再提醒敌人。"
+      ],
+      "perk_id": "002CFCB2"
+    },
+    {
+      "id": "weight-lifting",
+      "name_en": "Weight Lifting",
+      "name_zh": "举重",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Increase total carrying capacity by 10 kilograms.",
+      "summary_zh": "总承载能力增加10公斤。",
+      "rank_effects_en": [
+        "Increase total carrying capacity by 10 kilograms.",
+        "Increase total carrying capacity by 25 kilograms.",
+        "Increase total carrying capacity by 50 kilograms.",
+        "Increase total carrying capacity by 100 kilograms. Gain 50% resistance to stagger."
+      ],
+      "rank_effects_zh": [
+        "总承载能力增加10公斤。",
+        "总承载能力增加25公斤。",
+        "总承载能力增加50公斤。",
+        "总承载能力增加100公斤。获得 50% 的抗踉跄能力。"
+      ],
+      "perk_id": "002C59D9"
+    },
+    {
+      "id": "wellness",
+      "name_en": "Wellness",
+      "name_zh": "健康",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Increase your maximum health by 10%.",
+      "summary_zh": "将你的最大生命值提高 10%。",
+      "rank_effects_en": [
+        "Increase your maximum health by 10%.",
+        "Increase your maximum health by 20%.",
+        "Increase your maximum health by 30%.",
+        "Increase your maximum health by 40%"
+      ],
+      "rank_effects_zh": [
+        "将你的最大生命值提高 10%。",
+        "将你的最大生命值提高 20%。",
+        "将你的最大生命值提高 30%。",
+        "将你的最大生命值提高 40%"
+      ],
+      "perk_id": "002CE2E1"
+    },
+    {
+      "id": "energy-weapon-dissipation",
+      "name_en": "Energy Weapon Dissipation",
+      "name_zh": "能量武器耗散",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Energy damage is reduced by 5%.",
+      "summary_zh": "能量伤害减少 5%。",
+      "rank_effects_en": [
+        "Energy damage is reduced by 5%.",
+        "Energy damage is reduced by 10%.",
+        "Energy damage is reduced by 15%.",
+        "25% chance to reflect energy damage back to an attacker when your health is below 50%."
+      ],
+      "rank_effects_zh": [
+        "能量伤害减少 5%。",
+        "能量伤害减少 10%。",
+        "能量伤害减少 15%。",
+        "当你的生命值低于 50% 时，有 25% 的几率将能量伤害反射回攻击者。"
+      ],
+      "perk_id": "002C59E2"
+    },
+    {
+      "id": "environmental-conditioning",
+      "name_en": "Environmental Conditioning",
+      "name_zh": "环境适应",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Gain 10 resistance to Airborne environmental damage.",
+      "summary_zh": "获得 10 点对空气环境损害的抵抗力。",
+      "rank_effects_en": [
+        "Gain 10 resistance to Airborne environmental damage.",
+        "Gain 10 resistance to Thermal environmental damage.",
+        "Gain 10 resistance to Corrosive and Radiation environmental damage.",
+        "Reduced chance to gain afflictions from environmental damage sources."
+      ],
+      "rank_effects_zh": [
+        "获得 10 点对空气环境损害的抵抗力。",
+        "获得 10 点对热环境损害的抵抗力。",
+        "获得 10 点对腐蚀和辐射环境损害的抵抗力。",
+        "减少因环境破坏而遭受痛苦的机会。"
+      ],
+      "perk_id": "0028AE17"
+    },
+    {
+      "id": "gymnastics",
+      "name_en": "Gymnastics",
+      "name_zh": "体操",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Unlock the ability to combat slide. Take 15% less fall damage.",
+      "summary_zh": "解锁对抗滑行的能力。坠落伤害减少 15%。",
+      "rank_effects_en": [
+        "Unlock the ability to combat slide. Take 15% less fall damage.",
+        "Move faster in Zero-G. Take 20% less fall damage.",
+        "Become more stable while firing in Zero-G. Take 30% less fall damage. Replenish some O2 after mantling.",
+        "Increased jump height. Run faster after combat sliding or mantling."
+      ],
+      "rank_effects_zh": [
+        "解锁对抗滑行的能力。坠落伤害减少 15%。",
+        "在零重力下移动得更快。坠落伤害减少 20%。",
+        "在零重力下射击时变得更加稳定。坠落伤害减少 30%。装满后补充一些 O2。",
+        "增加跳跃高度。战斗滑行或掩护后跑得更快。"
+      ],
+      "perk_id": "0028AE29"
+    },
+    {
+      "id": "nutrition",
+      "name_en": "Nutrition",
+      "name_zh": "营养",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Food and drink are 10% more effective.",
+      "summary_zh": "食物和饮料的效果提高 10%。",
+      "rank_effects_en": [
+        "Food and drink are 10% more effective.",
+        "Food and drink are now 20% more effective.",
+        "Food and drink are now 30% more effective.",
+        "Food and drink are now 50% more effective."
+      ],
+      "rank_effects_zh": [
+        "食物和饮料的效果提高 10%。",
+        "食物和饮料的效果现在提高了 20%。",
+        "食物和饮料的效果现在提高了 30%。",
+        "食物和饮料的效果现在提高了 50%。"
+      ],
+      "perk_id": "002CFCAD"
+    },
+    {
+      "id": "pain-tolerance",
+      "name_en": "Pain Tolerance",
+      "name_zh": "疼痛耐受性",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Physical damage is reduced by 5%.",
+      "summary_zh": "物理伤害减少5%。",
+      "rank_effects_en": [
+        "Physical damage is reduced by 5%.",
+        "Physical damage is reduced by 10%.",
+        "Physical damage is reduced by 15%.",
+        "5% chance to ignore physical damage when your health is low."
+      ],
+      "rank_effects_zh": [
+        "物理伤害减少5%。",
+        "物理伤害减少10%。",
+        "物理伤害减少 15%。",
+        "当你的健康状况不佳时，有 5% 的几率忽略物理伤害。"
+      ],
+      "perk_id": "002CFCAE"
+    },
+    {
+      "id": "cellular-regeneration",
+      "name_en": "Cellular Regeneration",
+      "name_zh": "细胞再生",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Slightly increased chance to recover from injuries naturally.",
+      "summary_zh": "稍微增加从伤害中自然恢复的机会。",
+      "rank_effects_en": [
+        "Slightly increased chance to recover from injuries naturally.",
+        "Moderately increased chance to recover from injuries naturally.",
+        "Noticeably increased chance to recover from injuries naturally.",
+        "20% chance of not gaining an injury when you otherwise would."
+      ],
+      "rank_effects_zh": [
+        "稍微增加从伤害中自然恢复的机会。",
+        "适度增加从伤害中自然恢复的机会。",
+        "明显增加从伤害中自然恢复的机会。",
+        "原本会受伤的情况下，有 20% 的几率不会受伤。"
+      ],
+      "perk_id": "0028AE14"
+    },
+    {
+      "id": "decontamination",
+      "name_en": "Decontamination",
+      "name_zh": "去污",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Slightly increased chance to recover from infections naturally.",
+      "summary_zh": "从感染中自然恢复的机会略有增加。",
+      "rank_effects_en": [
+        "Slightly increased chance to recover from infections naturally.",
+        "Moderately increased chance to recover from infections naturally.",
+        "Noticeably increased chance to recover from infections naturally.",
+        "20% chance of not gaining an infection when you otherwise would."
+      ],
+      "rank_effects_zh": [
+        "从感染中自然恢复的机会略有增加。",
+        "适度增加从感染中自然恢复的机会。",
+        "从感染中自然恢复的机会明显增加。",
+        "原本会被感染的情况下，有 20% 的机会不会被感染。"
+      ],
+      "perk_id": "002CE2A0"
+    },
+    {
+      "id": "martial-arts",
+      "name_en": "Martial Arts",
+      "name_zh": "武术",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "15% increased chance to crit with a melee or unarmed attack.",
+      "summary_zh": "近战或徒手攻击造成暴击的几率提高 15%。",
+      "rank_effects_en": [
+        "15% increased chance to crit with a melee or unarmed attack.",
+        "15% chance to disarm an opponent with a melee or unarmed power attack.",
+        "While unarmed or wielding a melee weapon, take 10% less damage.",
+        "Reflect 50% damage back when blocking a melee or unarmed attack."
+      ],
+      "rank_effects_zh": [
+        "近战或徒手攻击造成暴击的几率提高 15%。",
+        "有 15% 的几率通过近战或徒手强力攻击解除对手的武装。",
+        "徒手或使用近战武器时，受到的伤害减少 10%。",
+        "格挡近战或徒手攻击时反射 50% 伤害。"
+      ],
+      "perk_id": "002C5554"
+    },
+    {
+      "id": "concealment",
+      "name_en": "Concealment",
+      "name_zh": "隐匿",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You no longer set off enemy mines. Ranged sneak attacks do 2.5x normal damage and your melee sneak attacks do 4x normal damage.",
+      "summary_zh": "你不再引爆敌人的地雷。远程偷袭造成 2.5 倍正常伤害，近战偷袭造成 4 倍正常伤害。",
+      "rank_effects_en": [
+        "You no longer set off enemy mines. Ranged sneak attacks do 2.5x normal damage and your melee sneak attacks do 4x normal damage.",
+        "Running while sneaking doesn't affect stealth. Ranged sneak attacks do 3x normal damage and your melee sneak attacks do 5x normal damage.",
+        "You gain a Chameleon-like ability when completely still and sneaking. Ranged sneak attacks do 3.5x normal damage and your melee sneak attacks do 8x normal damage.",
+        "Engaging stealth causes distant enemies to lose you. Ranged sneak attacks do 4x normal damage and your melee sneak attacks do 10x normal damage."
+      ],
+      "rank_effects_zh": [
+        "你不再引爆敌人的地雷。远程偷袭造成 2.5 倍正常伤害，近战偷袭造成 4 倍正常伤害。",
+        "潜行时奔跑不会影响潜行。远程偷袭造成 3 倍正常伤害，近战偷袭造成 5 倍正常伤害。",
+        "当你完全静止并潜行时，你会获得类似变色龙的能力。远程偷袭造成 3.5 倍正常伤害，近战偷袭造成 8 倍正常伤害。",
+        "潜行会让远处的敌人失去你。远程偷袭造成 4 倍正常伤害，近战偷袭造成 10 倍正常伤害。"
+      ],
+      "perk_id": "002C555E"
+    },
+    {
+      "id": "neurostrikes",
+      "name_en": "Neurostrikes",
+      "name_zh": "神经打击",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "10% chance to stun an NPC with an unarmed attack.",
+      "summary_zh": "徒手攻击有 10% 几率击晕 NPC。",
+      "rank_effects_en": [
+        "10% chance to stun an NPC with an unarmed attack.",
+        "Unarmed attacks now do additional EM damage.",
+        "20% chance to stun an NPC with an unarmed attack.",
+        "After stunning an enemy, you also knock down any enemies within close range."
+      ],
+      "rank_effects_zh": [
+        "徒手攻击有 10% 几率击晕 NPC。",
+        "徒手攻击现在会造成额外的电磁伤害。",
+        "徒手攻击有 20% 几率击晕 NPC。",
+        "击晕敌人后，你还可以击倒近距离内的所有敌人。"
+      ],
+      "perk_id": "002C53B4"
+    },
+    {
+      "id": "rejuvenation",
+      "name_en": "Rejuvenation",
+      "name_zh": "恢复",
+      "category": "Physical",
+      "category_color": "#8bd3ff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Slowly regenerate health outside of combat.",
+      "summary_zh": "在战斗之外缓慢恢复生命值。",
+      "rank_effects_en": [
+        "Slowly regenerate health outside of combat.",
+        "Regenerate health more quickly outside of combat.",
+        "Regenerate health much faster outside of combat. You can now slowly regenerate health while in combat.",
+        "Regenerate health even faster outside of combat. You can now regenerate health quickly while in combat."
+      ],
+      "rank_effects_zh": [
+        "在战斗之外缓慢恢复生命值。",
+        "在战斗之外更快地恢复生命值。",
+        "在战斗之外更快地恢复生命值。你现在可以在战斗中慢慢恢复生命值。",
+        "在战斗之外更快地恢复生命值。您现在可以在战斗中快速恢复生命值。"
+      ],
+      "perk_id": "0028AE13"
+    },
+    {
+      "id": "commerce",
+      "name_en": "Commerce",
+      "name_zh": "商业",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Buy for 5% less and sell for 10% more.",
+      "summary_zh": "买入价格低 5%，卖出价格高 10%。",
+      "rank_effects_en": [
+        "Buy for 5% less and sell for 10% more.",
+        "Buy for 10% less and sell for 15% more.",
+        "Buy for 15% less and sell for 20% more.",
+        "Buy for 20% less and sell for 25% more."
+      ],
+      "rank_effects_zh": [
+        "买入价格低 5%，卖出价格高 10%。",
+        "以低 10% 的价格买入，以高 15% 的价格卖出。",
+        "以低 15% 的价格买入，以高 20% 的价格卖出。",
+        "买入价低 20%，卖出价高 25%。"
+      ],
+      "perk_id": "002C5A8E"
+    },
+    {
+      "id": "gastronomy",
+      "name_en": "Gastronomy",
+      "name_zh": "烹饪",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "You can craft specialty food and drinks, and research additional recipes at a Research Lab.",
+      "summary_zh": "您可以制作特色食品和饮料，并在研究实验室研究其他食谱。",
+      "rank_effects_en": [
+        "You can craft specialty food and drinks, and research additional recipes at a Research Lab.",
+        "You can research and craft gourmet food and drinks.",
+        "You can research and craft food and drink delicacies.",
+        "Crafting food and drinks occasionally doesn't use up resources. You can research and craft exotic recipes."
+      ],
+      "rank_effects_zh": [
+        "您可以制作特色食品和饮料，并在研究实验室研究其他食谱。",
+        "您可以研究和制作美食和饮料。",
+        "您可以研究和制作食物和饮料美味佳肴。",
+        "制作食物和饮料有时不会消耗资源。您可以研究和制作异国情调的食谱。"
+      ],
+      "perk_id": "002C5A94"
+    },
+    {
+      "id": "persuasion",
+      "name_en": "Persuasion",
+      "name_zh": "说服",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "10% increased chance of success when persuading someone.",
+      "summary_zh": "说服某人时成功的机会增加 10%。",
+      "rank_effects_en": [
+        "10% increased chance of success when persuading someone.",
+        "20% increased chance of success when persuading someone.",
+        "30% increased chance of success when persuading someone.",
+        "50% increased chance of success when persuading someone."
+      ],
+      "rank_effects_zh": [
+        "说服某人时成功的机会增加 10%。",
+        "说服某人时成功的机会增加 20%。",
+        "说服某人时成功的机会增加 30%。",
+        "说服某人时成功的机会增加 50%。"
+      ],
+      "perk_id": "0022EC82"
+    },
+    {
+      "id": "scavenging",
+      "name_en": "Scavenging",
+      "name_zh": "拾荒",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "There's a chance you'll find extra credits when searching containers.",
+      "summary_zh": "搜索容器时您有机会找到额外的积分。",
+      "rank_effects_en": [
+        "There's a chance you'll find extra credits when searching containers.",
+        "There's a chance you'll find extra ammo when searching containers.",
+        "There's a chance you'll find extra aid items, like Med Packs or chems, when searching containers.",
+        "Tracked resources will get highlighted when using the hand scanner."
+      ],
+      "rank_effects_zh": [
+        "搜索容器时您有机会找到额外的积分。",
+        "搜索容器时您有可能找到额外的弹药。",
+        "在搜索容器时，您有可能会找到额外的援助物品，例如医疗包或化学药品。",
+        "使用手持扫描仪时，跟踪的资源将突出显示。"
+      ],
+      "perk_id": "0028B853"
+    },
+    {
+      "id": "theft",
+      "name_en": "Theft",
+      "name_zh": "盗窃",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Unlock the ability to pickpocket targets.",
+      "summary_zh": "解锁扒窃目标的能力。",
+      "rank_effects_en": [
+        "Unlock the ability to pickpocket targets.",
+        "10% greater chance to successfully pickpocket.",
+        "30% greater chance to successfully pickpocket",
+        "50% greater chance to successfully pickpocket, Can now pickpocket holstered weapons."
+      ],
+      "rank_effects_zh": [
+        "解锁扒窃目标的能力。",
+        "成功扒窃的几率增加 10%。",
+        "成功扒窃的几率提高 30%",
+        "成功扒窃的几率提高 50%，现在可以扒窃带皮套的武器。"
+      ],
+      "perk_id": "002C555B"
+    },
+    {
+      "id": "deception",
+      "name_en": "Deception",
+      "name_zh": "欺骗",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Ships 10% stronger will automatically surrender to piracy demands. Enemy contraband scans are 10% less effective.",
+      "summary_zh": "船只强度提高 10% 将自动屈服于海盗的要求。敌人违禁品扫描的效率降低 10%。",
+      "rank_effects_en": [
+        "Ships 10% stronger will automatically surrender to piracy demands. Enemy contraband scans are 10% less effective.",
+        "Ships 20% stronger will automatically surrender to piracy demands. Enemy contraband scans are 20% less effective.",
+        "Ships 30% stronger will automatically surrender to piracy demands. Enemy contraband scans are 30% less effective.",
+        "Ships 50% stronger will automatically surrender to piracy demands. Enemy contraband scans are 50% less effective."
+      ],
+      "rank_effects_zh": [
+        "船只强度提高 10% 将自动屈服于海盗的要求。敌人违禁品扫描的效率降低 10%。",
+        "强度提高 20% 的船只将自动屈服于海盗的要求。敌人违禁品扫描的效率降低 20%。",
+        "船只强度提高 30% 将自动屈服于海盗的要求。敌人违禁品扫描的效率降低 30%。",
+        "强度提高 50% 的船只将自动屈服于海盗的要求。敌人违禁品扫描的效率降低 50%。"
+      ],
+      "perk_id": "002CFCAF"
+    },
+    {
+      "id": "diplomacy",
+      "name_en": "Diplomacy",
+      "name_zh": "外交",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You can force a target NPC at or below your level to stop fighting for a while.",
+      "summary_zh": "你可以强制一个等级等于或低于你的目标NPC暂时停止战斗。",
+      "rank_effects_en": [
+        "You can force a target NPC at or below your level to stop fighting for a while.",
+        "You can force a target NPC up to 10 levels higher than you to stop fighting for a while.",
+        "You can force a target NPC up to 20 levels higher than you to stop fighting for a while.",
+        "You can force target NPCs to permanently stop fighting (unless they're attacked again)"
+      ],
+      "rank_effects_zh": [
+        "你可以强制一个等级等于或低于你的目标NPC暂时停止战斗。",
+        "你可以强制比你高10级的目标NPC暂时停止战斗。",
+        "你可以强制比你高20级的目标NPC暂时停止战斗。",
+        "你可以强迫目标 NPC 永久停止战斗（除非他们再次受到攻击）"
+      ],
+      "perk_id": "002C59E1"
+    },
+    {
+      "id": "intimidation",
+      "name_en": "Intimidation",
+      "name_zh": "恐吓",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You can force a target NPC at or below your level to flee for a limited time.",
+      "summary_zh": "你可以迫使一个等级等于或低于你的目标NPC在有限的时间内逃离。",
+      "rank_effects_en": [
+        "You can force a target NPC at or below your level to flee for a limited time.",
+        "You can force a target NPC up to 10 levels higher than you to flee for a limited time.",
+        "You can force a target NPC up to 20 levels higher than you to flee for a limited time.",
+        "Intimidated targets now flee for substantial amount of time."
+      ],
+      "rank_effects_zh": [
+        "你可以迫使一个等级等于或低于你的目标NPC在有限的时间内逃离。",
+        "你可以在有限的时间内迫使比你高10级的目标NPC逃跑。",
+        "你可以在有限的时间内迫使比你高20级的目标NPC逃跑。",
+        "受恐吓的目标现在会逃跑很长一段时间。"
+      ],
+      "perk_id": "002C59DE"
+    },
+    {
+      "id": "isolation",
+      "name_en": "Isolation",
+      "name_zh": "独行",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Do +10% weapon damage and gain 15 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.",
+      "summary_zh": "当您没有同伴或任何船员时，装备的每件宇航服和头盔都会造成 +10% 武器伤害并获得 15 点伤害抗性。",
+      "rank_effects_en": [
+        "Do +10% weapon damage and gain 15 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.",
+        "Do +20% weapon damage and gain 30 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.",
+        "Do +30% weapon damage and gain 45 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.",
+        "Do +40% weapon damage and gain 60 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew."
+      ],
+      "rank_effects_zh": [
+        "当您没有同伴或任何船员时，装备的每件宇航服和头盔都会造成 +10% 武器伤害并获得 15 点伤害抗性。",
+        "当你没有同伴或任何船员时，每件装备的宇航服和头盔都会造成 +20% 武器伤害并获得 30 伤害抗性。",
+        "当您没有同伴或任何船员时，装备的每件宇航服和头盔都会造成 +30% 武器伤害并获得 45 点伤害抗性。",
+        "当你没有同伴或任何船员时，每件装备的宇航服和头盔都会造成 +40% 武器伤害并获得 60 伤害抗性。"
+      ],
+      "perk_id": "002C53AE"
+    },
+    {
+      "id": "negotiation",
+      "name_en": "Negotiation",
+      "name_zh": "洽谈",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You now have access to Bribery in speech challenges.",
+      "summary_zh": "您现在可以在演讲挑战中接触贿赂。",
+      "rank_effects_en": [
+        "You now have access to Bribery in speech challenges.",
+        "Reduces bribery cost by 25%.",
+        "Reduces bribery cost by 50%.",
+        "Occasionally, bribery won't cost any money."
+      ],
+      "rank_effects_zh": [
+        "您现在可以在演讲挑战中接触贿赂。",
+        "贿赂成本降低 25%。",
+        "贿赂成本降低 50%。",
+        "有时，贿赂不会花任何钱。"
+      ],
+      "perk_id": "002C555F"
+    },
+    {
+      "id": "instigation",
+      "name_en": "Instigation",
+      "name_zh": "教唆",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "You can force a target NPC at or below your level to attack their allies for a limited time.",
+      "summary_zh": "你可以强迫一个等级等于或低于你的目标NPC在有限的时间内攻击他们的盟友。",
+      "rank_effects_en": [
+        "You can force a target NPC at or below your level to attack their allies for a limited time.",
+        "You can force a target PC up to 10 levels higher than you to attack their allies for a limited time.",
+        "You can force a target NPC up to 20 levels higher than you to attack their allies for a limited time.",
+        "Enemies affected by Instigation will attack their allies until they are dead."
+      ],
+      "rank_effects_zh": [
+        "你可以强迫一个等级等于或低于你的目标NPC在有限的时间内攻击他们的盟友。",
+        "你可以强制比你高 10 级的目标电脑在有限的时间内攻击他们的盟友。",
+        "你可以强迫比你高20级的目标NPC在有限的时间内攻击他们的盟友。",
+        "受煽动影响的敌人会攻击他们的盟友，直到他们死亡。"
+      ],
+      "perk_id": "002C555D"
+    },
+    {
+      "id": "leadership",
+      "name_en": "Leadership",
+      "name_zh": "领导力",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Companions gain affinity 25% faster.",
+      "summary_zh": "同伴获得亲和力的速度加快 25%。",
+      "rank_effects_en": [
+        "Companions gain affinity 25% faster.",
+        "Companions have 50 more health and 50kg more carrying capacity.",
+        "Companions will occasionally heal you when you get low health.",
+        "Doubles the bonuses of Combat and Physical Crew Skills Companions. Companions have a chance to pick themselves up from a downed state."
+      ],
+      "rank_effects_zh": [
+        "同伴获得亲和力的速度加快 25%。",
+        "同伴的生命值增加 50 点，承载能力增加 50 公斤。",
+        "当你的健康状况不佳时，同伴偶尔会治愈你。",
+        "同伴的战斗和身体技能加成加倍。同伴们有机会从沮丧的状态中振作起来。"
+      ],
+      "perk_id": "002C890D"
+    },
+    {
+      "id": "outpost-management",
+      "name_en": "Outpost Management",
+      "name_zh": "前哨站管理",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Additional cargo links can be placed at outposts.",
+      "summary_zh": "额外的货物链接可以放置在前哨站。",
+      "rank_effects_en": [
+        "Additional cargo links can be placed at outposts",
+        "Additional robots can be constructed at outposts.",
+        "Additional crew can be assigned at outposts",
+        "Outpost extractors produce twice as fast."
+      ],
+      "rank_effects_zh": [
+        "额外的货物链接可以放置在前哨站",
+        "可以在前哨站建造额外的机器人。",
+        "可以在前哨站分配额外的船员",
+        "前哨提取器的生产速度提高了一倍。"
+      ],
+      "perk_id": "0023826F"
+    },
+    {
+      "id": "manipulation",
+      "name_en": "Manipulation",
+      "name_zh": "操纵",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You can force a target NPC at or below your level to obey commands for a limited time.",
+      "summary_zh": "你可以强制一个等级等于或低于你的目标NPC在有限的时间内服从命令。",
+      "rank_effects_en": [
+        "You can force a target NPC at or below your level to obey commands for a limited time.",
+        "You can force a target NPC up to 10 levels higher than you to obey commands for a limited time.",
+        "You can force a target NPC up to 20 levels higher than you to obey commands for a limited time.",
+        "Manipulated targets now obey commands for a substantial amount of time."
+      ],
+      "rank_effects_zh": [
+        "你可以强制一个等级等于或低于你的目标NPC在有限的时间内服从命令。",
+        "你可以强制比你高10级的目标NPC在有限的时间内服从命令。",
+        "你可以强迫比你高20级的目标NPC在有限的时间内服从命令。",
+        "被操纵的目标现在会在相当长的时间内服从命令。"
+      ],
+      "perk_id": "002C5555"
+    },
+    {
+      "id": "ship-command",
+      "name_en": "Ship Command",
+      "name_zh": "舰船指挥",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You can have up to four active crew members.",
+      "summary_zh": "您最多可以拥有四名活跃船员。",
+      "rank_effects_en": [
+        "You can have up to four active crew members.",
+        "You can have up to five active crew members.",
+        "You can have up to six active crew members.",
+        "You can have up to eight active crew members."
+      ],
+      "rank_effects_zh": [
+        "您最多可以拥有四名活跃船员。",
+        "您最多可以有五名活跃的船员。",
+        "您最多可以拥有六名活跃船员。",
+        "您最多可以拥有八名活跃船员。"
+      ],
+      "perk_id": "002C53B3"
+    },
+    {
+      "id": "xenosociology",
+      "name_en": "Xenosociology",
+      "name_zh": "异种社会学",
+      "category": "Social",
+      "category_color": "#f7ae65",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You can force a target alien creature up to 10 levels higher than you to stop fighting for a limited time.",
+      "summary_zh": "你可以强迫比你高 10 级的目标外星生物在有限的时间内停止战斗。",
+      "rank_effects_en": [
+        "You can force a target alien creature up to 10 levels higher than you to stop fighting for a limited time.",
+        "You can force a target alien creature up to 10 levels higher than you to flee for a limited time.",
+        "You can force a target alien creature up to 10 levels higher than you to attack their allies for a limited time.",
+        "You can force a target creature up to 10 levels higher than you to obey commands for a limited time."
+      ],
+      "rank_effects_zh": [
+        "你可以强迫比你高 10 级的目标外星生物在有限的时间内停止战斗。",
+        "你可以强迫比你高 10 级的目标外星生物在有限的时间内逃跑。",
+        "你可以强迫比你高 10 级的目标外星生物在有限的时间内攻击他们的盟友。",
+        "你可以强迫比你高10级的目标生物在有限的时间内服从命令。"
+      ],
+      "perk_id": "002C53B0"
+    },
+    {
+      "id": "ballistics",
+      "name_en": "Ballistics",
+      "name_zh": "弹道",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Ballistic weapons do 10% more damage.",
+      "summary_zh": "弹道武器造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Ballistic weapons do 10% more damage.",
+        "Ballistic weapons do 20% more damage.",
+        "Ballistic weapons do 30% more damage",
+        "Ballistic weapons range is increased by 30%"
+      ],
+      "rank_effects_zh": [
+        "弹道武器造成的伤害提高 10%。",
+        "弹道武器造成的伤害提高 20%。",
+        "弹道武器造成的伤害提高 30%",
+        "弹道武器射程增加 30%"
+      ],
+      "perk_id": "002CFCAB"
+    },
+    {
+      "id": "dueling",
+      "name_en": "Dueling",
+      "name_zh": "决斗",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Melee weapons do 25% more damage. Take 10% less damage while wielding a melee weapon.",
+      "summary_zh": "近战武器造成的伤害提高 25%。使用近战武器时受到的伤害减少 10%。",
+      "rank_effects_en": [
+        "Melee weapons do 25% more damage. Take 10% less damage while wielding a melee weapon.",
+        "Melee kills make you run 20% faster for 10 seconds.",
+        "Melee weapons do 50% more damage. Take 15% less damage while wielding melee weapon.",
+        "Melee kills heal you for 10% of your health."
+      ],
+      "rank_effects_zh": [
+        "近战武器造成的伤害提高 25%。使用近战武器时受到的伤害减少 10%。",
+        "近战击杀使你的奔跑速度提高 20%，持续 10 秒。",
+        "近战武器造成的伤害提高 50%。使用近战武器时受到的伤害减少 15%。",
+        "近战击杀可以治愈你 10% 的生命值。"
+      ],
+      "perk_id": "002CFCB0"
+    },
+    {
+      "id": "lasers",
+      "name_en": "Lasers",
+      "name_zh": "激光",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Laser weapons do 10% more damage.",
+      "summary_zh": "激光武器造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Laser weapons do 10% more damage.",
+        "Laser weapons do 20% more damage.",
+        "Laser weapons do 30% more damage.",
+        "Laser weapons have a 5% chance to set a target on fire."
+      ],
+      "rank_effects_zh": [
+        "激光武器造成的伤害提高 10%。",
+        "激光武器造成的伤害提高 20%。",
+        "激光武器造成的伤害提高 30%。",
+        "激光武器有 5% 的几率使目标着火。"
+      ],
+      "perk_id": "002C59DD"
+    },
+    {
+      "id": "pistol-certification",
+      "name_en": "Pistol Certification",
+      "name_zh": "手枪认证",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Pistols do 10% more damage.",
+      "summary_zh": "手枪造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Pistols do 10% more damage.",
+        "Pistols do 25% more damage.",
+        "Pistols do 50% more damage.",
+        "Pistol kills grant +25% critical hit chance for 5 seconds."
+      ],
+      "rank_effects_zh": [
+        "手枪造成的伤害提高 10%。",
+        "手枪造成的伤害提高 25%。",
+        "手枪造成的伤害提高 50%。",
+        "手枪击杀可获得 +25% 暴击率，持续 5 秒。"
+      ],
+      "perk_id": "002080FF"
+    },
+    {
+      "id": "shotgun-certification",
+      "name_en": "Shotgun Certification",
+      "name_zh": "猎枪认证",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Shotguns do 10% more damage.",
+      "summary_zh": "霰弹枪造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Shotguns do 10% more damage.",
+        "Shotguns do 20% more damage.",
+        "Shotguns do 30% more damage.",
+        "Shotgun kills grant a small chance to stun additional targets with shotguns for a limited time."
+      ],
+      "rank_effects_zh": [
+        "霰弹枪造成的伤害提高 10%。",
+        "霰弹枪造成的伤害提高 20%。",
+        "霰弹枪造成的伤害提高 30%。",
+        "霰弹枪击杀有一定几率在有限时间内用霰弹枪击晕其他目标。"
+      ],
+      "perk_id": "0027DF97"
+    },
+    {
+      "id": "demolitions",
+      "name_en": "Demolitions",
+      "name_zh": "爆破",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Throwing grenades now shows a trajectory arc. Explosions have a 25% larger radius.",
+      "summary_zh": "投掷手榴弹现在显示轨迹弧。爆炸的半径增大 25%。",
+      "rank_effects_en": [
+        "Throwing grenades now shows a trajectory arc. Explosions have a 25% larger radius.",
+        "Explosives do 25% more damage.",
+        "Reduce damage taken from explosives by 25%",
+        "All previous bonuses are doubled."
+      ],
+      "rank_effects_zh": [
+        "投掷手榴弹现在显示轨迹弧。爆炸的半径增大 25%。",
+        "炸药造成的伤害提高 25%。",
+        "爆炸物造成的伤害减少 25%",
+        "所有之前的奖金都翻倍。"
+      ],
+      "perk_id": "002C5556"
+    },
+    {
+      "id": "heavy-weapons-certification",
+      "name_en": "Heavy Weapons Certification",
+      "name_zh": "重型武器认证",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Heavy weapons do 10% more damage.",
+      "summary_zh": "重型武器造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Heavy weapons do 10% more damage.",
+        "Heavy weapons do 20% more damage.",
+        "Heavy weapons do 30% more damage.",
+        "Gain 25% Physical resistance while aiming down sights with a heavy weapon."
+      ],
+      "rank_effects_zh": [
+        "重型武器造成的伤害提高 10%。",
+        "重型武器造成的伤害提高 20%。",
+        "重型武器造成的伤害提高 30%。",
+        "使用重型武器瞄准时获得 25% 物理抵抗力。"
+      ],
+      "perk_id": "00147E38"
+    },
+    {
+      "id": "incapacitation",
+      "name_en": "Incapacitation",
+      "name_zh": "瘫痪",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "EM weapons do 5% more damage.",
+      "summary_zh": "电磁武器造成的伤害提高 5%。",
+      "rank_effects_en": [
+        "EM weapons do 5% more damage",
+        "EM weapons do 10% more damage",
+        "EM weapons do 15% more damage",
+        "EM weapons have a 15% chance to do 300% EM damage"
+      ],
+      "rank_effects_zh": [
+        "电磁武器造成的伤害提高 5%",
+        "电磁武器造成的伤害提高 10%",
+        "电磁武器造成的伤害提高 15%",
+        "电磁武器有 15% 的几率造成 300% 电磁伤害"
+      ],
+      "perk_id": "0027DF96"
+    },
+    {
+      "id": "particle-beams",
+      "name_en": "Particle Beams",
+      "name_zh": "粒子束",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Particle beam weapons do 10% more damage.",
+      "summary_zh": "粒子束武器造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Particle beam weapons do 10% more damage.",
+        "Particle beam weapons do 20% more damage.",
+        "Particle beam weapons do 30% more damage.",
+        "Particle beam weapons have +5% crit chance."
+      ],
+      "rank_effects_zh": [
+        "粒子束武器造成的伤害提高 10%。",
+        "粒子束武器造成的伤害提高 20%。",
+        "粒子束武器造成的伤害提高 30%。",
+        "粒子束武器的暴击率+5%。"
+      ],
+      "perk_id": "0027BAFD"
+    },
+    {
+      "id": "rifle-certification",
+      "name_en": "Rifle Certification",
+      "name_zh": "步枪认证",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Rifles do 10% more damage.",
+      "summary_zh": "步枪造成的伤害提高 10%。",
+      "rank_effects_en": [
+        "Rifles do 10% more damage.",
+        "Rifles do 20% more damage.",
+        "Rifles do 30% more damage.",
+        "Reload rifles 30% faster while you're standing still."
+      ],
+      "rank_effects_zh": [
+        "步枪造成的伤害提高 10%。",
+        "步枪造成的伤害提高 20%。",
+        "步枪造成的伤害提高 30%。",
+        "当你站立不动时，步枪装弹速度加快 30%。"
+      ],
+      "perk_id": "002CE2E0"
+    },
+    {
+      "id": "marksmanship",
+      "name_en": "Marksmanship",
+      "name_zh": "射击",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Increase critical hit chance with non-automatic ranged weapons by 3%.",
+      "summary_zh": "非自动远程武器的暴击率提高 3%。",
+      "rank_effects_en": [
+        "Increase critical hit chance with non-automatic ranged weapons by 3%.",
+        "Increase critical hit chance with non-automatic ranged weapons by 8%.",
+        "Increase critical hit chance with non-automatic ranged weapons by 15%.",
+        "Critical hits using a non-automatic ranged weapon without a scope do double damage and those with scopes knock down enemies on the next shot."
+      ],
+      "rank_effects_zh": [
+        "非自动远程武器的暴击率提高 3%。",
+        "非自动远程武器的暴击率提高 8%。",
+        "非自动远程武器的暴击率提高 15%。",
+        "使用不带瞄准镜的非自动远程武器进行致命一击会造成双倍伤害，而带瞄准镜的武器会在下一次射击时击倒敌人。"
+      ],
+      "perk_id": "002C890B"
+    },
+    {
+      "id": "rapid-reloading",
+      "name_en": "Rapid Reloading",
+      "name_zh": "快速装弹",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Reload Ballistic weapons 30% faster.",
+      "summary_zh": "弹道武器的装弹速度加快 30%。",
+      "rank_effects_en": [
+        "Reload Ballistic weapons 30% faster.",
+        "Reload Energy and EM weapons 30% faster.",
+        "Reload Particle Beam weapons 30% faster. 50% chance to avoid getting interrupted while reloading.",
+        "Chance on hitting enemies to increase reload speed for all weapons by 50% for 15 seconds."
+      ],
+      "rank_effects_zh": [
+        "弹道武器的装弹速度加快 30%。",
+        "能量和电磁武器的装填速度加快 30%。",
+        "粒子束武器的装弹速度加快 30%。 50% 的几率避免在重新加载时被打断。",
+        "击中敌人时有几率使所有武器的装弹速度提高 50%，持续 15 秒。"
+      ],
+      "perk_id": "002C555A"
+    },
+    {
+      "id": "sniper-certification",
+      "name_en": "Sniper Certification",
+      "name_zh": "狙击手认证",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Scoped weapons are steadier and have less sway.",
+      "summary_zh": "带瞄准镜的武器更稳定，晃动更小。",
+      "rank_effects_en": [
+        "Scoped weapons are steadier and have less sway.",
+        "You can hold your breath longer with scoped weapons.",
+        "Headshots while aiming with a scoped weapon have a +25% critical hit chance",
+        "Scoped weapons do 50% more damage while using the scope."
+      ],
+      "rank_effects_zh": [
+        "带瞄准镜的武器更稳定，晃动更小。",
+        "你可以使用带瞄准镜的武器屏住呼吸更长时间。",
+        "使用瞄准镜武器瞄准时爆头的暴击率 +25%",
+        "使用瞄准镜时，带瞄准镜的武器造成的伤害提高 50%。"
+      ],
+      "perk_id": "002C53B1"
+    },
+    {
+      "id": "targeting",
+      "name_en": "Targeting",
+      "name_zh": "瞄准",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Increased accuracy and range when shooting without aiming. Marks up to one enemy within 25m that damages you.",
+      "summary_zh": "提高无瞄准射击时的准确性和射程。标记 25m 范围内最多一名对你造成伤害的敌人。",
+      "rank_effects_en": [
+        "Increased accuracy and range when shooting without aiming. Marks up to one enemy within 25m that damages you.",
+        "Notably increased accuracy and range when shooting without aiming. Marks up to two enemies within 50m that damage you.",
+        "Greatly increased accuracy and range when shooting without aiming. Marks up to three enemies within 75m that damage you.",
+        "10% chance to disarm targets hit when shooting without aiming. Marks up to four enemies within 100m that damage you."
+      ],
+      "rank_effects_zh": [
+        "提高无瞄准射击时的准确性和射程。标记 25m 范围内最多一名对你造成伤害的敌人。",
+        "显着提高了无瞄准射击时的准确性和射程。标记 50m 内最多两个对你造成伤害的敌人。",
+        "大幅提高无瞄准射击时的精度和射程。标记 75m 范围内最多 3 个对您造成伤害的敌人。",
+        "在没有瞄准的情况下射击时，有 10% 的几率解除击中目标的武装。标记 100m 内最多 4 个对你造成伤害的敌人。"
+      ],
+      "perk_id": "002C59DA"
+    },
+    {
+      "id": "armor-penetration",
+      "name_en": "Armor Penetration",
+      "name_zh": "装甲穿透",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Attacks ignore 15% of a target's armor.",
+      "summary_zh": "攻击会忽略目标 15% 的护甲。",
+      "rank_effects_en": [
+        "Attacks ignore 15% of a target's armor",
+        "Attacks ignore 30% of a target's armor",
+        "Attacks ignore 50% of a target's armor",
+        "Enemy armor is decreased by 25% for 6 seconds after critical hit."
+      ],
+      "rank_effects_zh": [
+        "攻击无视目标 15% 的护甲",
+        "攻击无视目标 30% 的护甲",
+        "攻击无视目标 50% 的护甲",
+        "致命一击后，敌人护甲值降低 25%，持续 6 秒。"
+      ],
+      "perk_id": "0027DF94"
+    },
+    {
+      "id": "crippling",
+      "name_en": "Crippling",
+      "name_zh": "致残",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Human enemies have a 30% increased chance to enter a downed state after taking enough damage.",
+      "summary_zh": "人类敌人在受到足够伤害后进入倒地状态的几率提高 30%。",
+      "rank_effects_en": [
+        "Human enemies have a 30% incrased chance to enter a downed state after taking enough damage",
+        "Humanoid enemies have a 50% increased chance to not naturally recover from a downed state",
+        "Human enemies now can enter a downed state earlier",
+        "Previous ranks now apply to all enemy types. You now do 100% more damage to downed enemies"
+      ],
+      "rank_effects_zh": [
+        "人类敌人在受到足够伤害后有 30% 的几率进入倒地状态",
+        "人形敌人无法从倒地状态自然恢复的几率提高 50%",
+        "人类敌人现在可以更早进入倒地状态",
+        "以前的等级现在适用于所有敌人类型。现在你对倒地敌人造成的伤害提高 100%"
+      ],
+      "perk_id": "0027CBBA"
+    },
+    {
+      "id": "sharpshooting",
+      "name_en": "Sharpshooting",
+      "name_zh": "神枪手",
+      "category": "Combat",
+      "category_color": "#ff7a70",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Increase headshot critical damage by 50% with ranged weapons.",
+      "summary_zh": "使用远程武器将爆头暴击伤害提高 50%。",
+      "rank_effects_en": [
+        "Increase headshot critical damage by 50% with ranged weapons",
+        "Increase critical damage to enemy legs by 50% with ranged weapons",
+        "Increase all critical damage to enemies by 50% with ranged weapons",
+        "Ranged critical hit kills increase your critical chance with all ranged weapons by 25% for 20 seconds"
+      ],
+      "rank_effects_zh": [
+        "使用远程武器将爆头暴击伤害提高 50%",
+        "使用远程武器对敌人腿部造成的暴击伤害提高 50%",
+        "使用远程武器对敌人造成的所有暴击伤害提高 50%",
+        "远程致命一击使所有远程武器的致命一击几率提高 25%，持续 20 秒"
+      ],
+      "perk_id": "002C53AF"
+    },
+    {
+      "id": "astrodynamics",
+      "name_en": "Astrodynamics",
+      "name_zh": "天体动力学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Increase grav jump range of jump drives by 15%.",
+      "summary_zh": "跳跃驱动器的重力跳跃范围增加 15%。",
+      "rank_effects_en": [
+        "Increase grav jump range of jump drives by 15%.",
+        "Reduced fuel cost of jump drives by 15%.",
+        "Increased grav jump range and reduced fuel cost of jump drives by 30%.",
+        "Reduced fuel cost of jump drives by 50%."
+      ],
+      "rank_effects_zh": [
+        "跳跃驱动器的重力跳跃范围增加 15%。",
+        "跳跃驱动的燃料成本降低了 15%。",
+        "增加了重力跳跃范围并将跳跃驱动的燃料成本降低了 30%。",
+        "跳跃驱动器的燃料成本降低了 50%。"
+      ],
+      "perk_id": "002C5560"
+    },
+    {
+      "id": "geology",
+      "name_en": "Geology",
+      "name_zh": "地质学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Get more common and uncommon inorganic resources from surface objects.",
+      "summary_zh": "从地表物体中获取更多常见和不常见的无机资源。",
+      "rank_effects_en": [
+        "Get more common and uncommon inorganic resources from surface objects.",
+        "Get more rare inorganic resources from surface objects.",
+        "Get more exotic inorganic resources from surface objects.",
+        "Occasionally harvest additional rarer resources from surface objects."
+      ],
+      "rank_effects_zh": [
+        "从地表物体中获取更多常见和不常见的无机资源。",
+        "从地表物体中获取更多稀有无机资源。",
+        "从地表物体获取更多奇特的无机资源。",
+        "偶尔从地表物体中收获额外的稀有资源。"
+      ],
+      "perk_id": "002CE29F"
+    },
+    {
+      "id": "medicine",
+      "name_en": "Medicine",
+      "name_zh": "医疗",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Med Packs, Trauma Packs, and Emergency Kits restore 10% additional Health 10% faster.",
+      "summary_zh": "医疗包、创伤包和急救包恢复 10% 额外生命值，速度加快 10%。",
+      "rank_effects_en": [
+        "Med Packs, Trauma Packs, and Emergency Kits restore 10% additional Health 10% faster.",
+        "Med Packs, Trauma Packs, and Emergency Kits restore 20% additional Health 20% faster.",
+        "Med Packs, Trauma Packs, and Emergency Kits restore 30% additional Health 30% faster.",
+        "Med Packs, Trauma Packs, and Emergency Kits restore 50% additional Health 50% faster, and have a chance to cure an affliction."
+      ],
+      "rank_effects_zh": [
+        "医疗包、创伤包和急救包恢复 10% 额外生命值，速度加快 10%。",
+        "医疗包、创伤包和急救包恢复 20% 额外生命值，速度加快 20%。",
+        "医疗包、创伤包和急救包恢复 30% 额外生命值，速度加快 30%。",
+        "医疗包、创伤包和急救包可额外恢复 50% 生命值，速度加快 50%，并且有机会治愈疾病。"
+      ],
+      "perk_id": "002CE2DF"
+    },
+    {
+      "id": "research-methods",
+      "name_en": "Research Methods",
+      "name_zh": "研究方法",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Resources required to craft items and complete research projects is reduced by 10%.",
+      "summary_zh": "制作物品和完成研究项目所需的资源减少 10%。",
+      "rank_effects_en": [
+        "Resources required to craft items and complete research projects is reduced by 10%.",
+        "Resources required to craft items and complete research projects is reduced by 20%.",
+        "Resources required to craft items and complete research projects is reduced by 40%.",
+        "Sudden developments during research are twice as common. Resources required to craft items and complete research projects is reduced by 60%."
+      ],
+      "rank_effects_zh": [
+        "制作物品和完成研究项目所需的资源减少 10%。",
+        "制作物品和完成研究项目所需的资源减少 20%。",
+        "制作物品和完成研究项目所需的资源减少 40%。",
+        "研究期间的突然发展是常见的两倍。制作物品和完成研究项目所需的资源减少 60%。"
+      ],
+      "perk_id": "002C555C"
+    },
+    {
+      "id": "surveying",
+      "name_en": "Surveying",
+      "name_zh": "勘测",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Adds an optional zoom to the hand scanner, and scan distance is increased to 20 meters.",
+      "summary_zh": "手持式扫描仪增加可选变焦功能，扫描距离增加至20米。",
+      "rank_effects_en": [
+        "Adds an optional zoom to the hand scanner, and scan distance is increased to 20 meters.",
+        "Adds another level of zoom to the hand scanner, and scan distance is increased to 30 meters.",
+        "Adds another level of zoom to the hand scanner, and scan distance is increased to 40 meters.",
+        "Adds another level of zoom to the hand scanner, and scan distance is increased to 50 meters."
+      ],
+      "rank_effects_zh": [
+        "手持式扫描仪增加可选变焦功能，扫描距离增加至20米。",
+        "为手持式扫描仪增加了另一级变焦，扫描距离增加至 30 米。",
+        "为手持式扫描仪增加了另一级变焦，扫描距离增加至 40 米。",
+        "为手持式扫描仪增加了另一级变焦，扫描距离增加至 50 米。"
+      ],
+      "perk_id": "0027CBC1"
+    },
+    {
+      "id": "botany",
+      "name_en": "Botany",
+      "name_zh": "植物学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Get more common and uncommon organic resources from plants, learn additional info about them from the scanner, and allows some plants to be cultivated at your outposts.",
+      "summary_zh": "从植物中获取更多常见和不常见的有机资源，从扫描仪中了解有关它们的更多信息，并允许在您的前哨站种植一些植物。",
+      "rank_effects_en": [
+        "Get more common and uncommon organic resources from plants, learn additional info about them from the scanner, and allows some plants to be cultivated at your outposts.",
+        "Get more rare organic resources from plants, and learn information about them more quickly using the scanner.",
+        "Get more exotic organic resources from plants, and learn information about them more quickly using the scanner.",
+        "Occasionally harvest additional rarer resources from plants, and learn information about them more quickly using the scanner."
+      ],
+      "rank_effects_zh": [
+        "从植物中获取更多常见和不常见的有机资源，从扫描仪中了解有关它们的更多信息，并允许在您的前哨站种植一些植物。",
+        "从植物中获取更多稀有有机资源，并使用扫描仪更快地了解它们的信息。",
+        "从植物中获取更多外来有机资源，并使用扫描仪更快地了解它们的信息。",
+        "偶尔从植物中收获更多稀有资源，并使用扫描仪更快地了解它们的信息。"
+      ],
+      "perk_id": "002C5557"
+    },
+    {
+      "id": "scanning",
+      "name_en": "Scanning",
+      "name_zh": "扫描",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You can detect uncommon inorganic resources on planet and moon surfaces, and more information about ships in space.",
+      "summary_zh": "您可以检测行星和月球表面上不常见的无机资源，以及有关太空船舶的更多信息。",
+      "rank_effects_en": [
+        "You can detect uncommon inorganic resources on planet and moon surfaces, and more information about ships in space.",
+        "You can detect rare inorganic resources on planet and moon surfaces, and more specific information about ships in space.",
+        "You can detect exotic inorganic resources on planet and moon surfaces, and gain better combat information on ships in space.",
+        "You can detect unique inorganic resources on planet and moon surfaces, and gain a complete list of cargo on ships in space."
+      ],
+      "rank_effects_zh": [
+        "您可以检测行星和月球表面上不常见的无机资源，以及有关太空船舶的更多信息。",
+        "您可以检测行星和月球表面的稀有无机资源，以及有关太空船舶的更具体信息。",
+        "您可以探测行星和月球表面的奇异无机资源，并获得更好的太空舰艇战斗信息。",
+        "您可以检测行星和月球表面独特的无机资源，并获得太空船上货物的完整列表。"
+      ],
+      "perk_id": "002CFCB1"
+    },
+    {
+      "id": "spacesuit-design",
+      "name_en": "Spacesuit Design",
+      "name_zh": "宇航服设计",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You can craft improved spacesuit, helmet, and pack mods, and research additional mods at a Research Lab.",
+      "summary_zh": "您可以制作改进的宇航服、头盔和背包模组，并在研究实验室研究其他模组。",
+      "rank_effects_en": [
+        "You can craft improved spacesuit, helmet, and pack mods, and research additional mods at a Research Lab.",
+        "You can research and craft superior spacesuit, helmet, and pack mods.",
+        "You can research and craft cutting-edge spacesuit, helmet, and pack mods.",
+        "Construction of spacesuit, helmet, and pack mods occasionally doesn't cost resources."
+      ],
+      "rank_effects_zh": [
+        "您可以制作改进的宇航服、头盔和背包模组，并在研究实验室研究其他模组。",
+        "您可以研究和制作高级太空服、头盔和背包模组。",
+        "您可以研究和制作尖端的太空服、头盔和背包模组。",
+        "建造宇航服、头盔和背包模组有时并不消耗资源。"
+      ],
+      "perk_id": "0027CBC3"
+    },
+    {
+      "id": "weapon-engineering",
+      "name_en": "Weapon Engineering",
+      "name_zh": "武器工程",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "You can craft improved weapon mods at a Weapon Workbench, and research additional weapon mods at a Research Lab.",
+      "summary_zh": "您可以在武器工作台制作改进的武器模组，并在研究实验室研究其他武器模组。",
+      "rank_effects_en": [
+        "You can craft improved weapon mods at a Weapon Workbench, and research additional weapon mods a at Research Lab.",
+        "You can research and craft superior weapon mods.",
+        "You can research and craft cutting-edge weapon mods.",
+        "You can research and craft master-level weapon mods."
+      ],
+      "rank_effects_zh": [
+        "您可以在武器工作台制作改进的武器模组，并在研究实验室研究其他武器模组。",
+        "您可以研究和制作高级武器模组。",
+        "您可以研究和制作尖端武器模组。",
+        "您可以研究和制作大师级的武器模组。"
+      ],
+      "perk_id": "002C890C"
+    },
+    {
+      "id": "zoology",
+      "name_en": "Zoology",
+      "name_zh": "动物学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Get more common organic resources from creatures and harvest from them without harming them, learn additional info about them from the scanner, and allows you to produce animal resources at your outposts.",
+      "summary_zh": "从生物中获取更多常见的有机资源，并在不伤害它们的情况下收获它们，从扫描仪中了解有关它们的更多信息，并允许您在前哨基地生产动物资源。",
+      "rank_effects_en": [
+        "Get more common organic resources from creatures and harvest from them without harming them, learn additional info about them from the scanner, and allows you to produce animal resources at your outposts.",
+        "Get more uncommon organic resources from creatures, and learn information about them more quickly using the scanner.",
+        "Get more rare organic resources from creatures, and learn information about them more quickly using the scanner.",
+        "Occasionally harvest additional rarer resources from creatures, and learn information about them more quickly using the scanner."
+      ],
+      "rank_effects_zh": [
+        "从生物中获取更多常见的有机资源，并在不伤害它们的情况下收获它们，从扫描仪中了解有关它们的更多信息，并允许您在前哨基地生产动物资源。",
+        "从生物身上获取更多不常见的有机资源，并使用扫描仪更快地了解它们的信息。",
+        "从生物中获取更多稀有有机资源，并使用扫描仪更快地了解它们的信息。",
+        "偶尔从生物身上收获额外的稀有资源，并使用扫描仪更快地了解它们的信息。"
+      ],
+      "perk_id": "002C5552"
+    },
+    {
+      "id": "astrophysics",
+      "name_en": "Astrophysics",
+      "name_zh": "天体物理学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "You can scan the moons of your current planet. You have a 10% chance to discover a trait when scanning.",
+      "summary_zh": "您可以扫描当前行星的卫星。扫描时您有 10% 的机会发现特征。",
+      "rank_effects_en": [
+        "You can scan the moons of your current planet. You have a 10% chance to discover a trait when scanning.",
+        "You can scan any planet or moon in this system. You have a 20% chance to discover a trait when scanning.",
+        "You can scan any planet or moon within 16 Light Years. You have a 30% chance to discover a trait when scanning.",
+        "You can scan any planet or moon within 30 Light Years. You have a 50% chance to discover a trait when scanning."
+      ],
+      "rank_effects_zh": [
+        "您可以扫描当前行星的卫星。扫描时您有 10% 的机会发现特征。",
+        "您可以扫描该系统中的任何行星或卫星。扫描时您有 20% 的机会发现特征。",
+        "您可以扫描 16 光年内的任何行星或卫星。扫描时您有 30% 的机会发现特征。",
+        "您可以扫描 30 光年内的任何行星或卫星。扫描时您有 50% 的机会发现特征。"
+      ],
+      "perk_id": "0027CBBB"
+    },
+    {
+      "id": "chemistry",
+      "name_en": "Chemistry",
+      "name_zh": "化学",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "You can create improved chems, and research additional chems at a Research Lab.",
+      "summary_zh": "您可以创建改进的化学物质，并在研究实验室研究其他化学物质。",
+      "rank_effects_en": [
+        "You can create improved chems, and research additional chems at a Research Lab.",
+        "You can research and create superior chems.",
+        "You can research and create cutting-edge chems.",
+        "Crafting chems occasionally triples the amount created."
+      ],
+      "rank_effects_zh": [
+        "您可以创建改进的化学物质，并在研究实验室研究其他化学物质。",
+        "您可以研究和创造优质的化学物质。",
+        "您可以研究和创造尖端化学物质。",
+        "制作化学品有时会使制造量增加三倍。"
+      ],
+      "perk_id": "002CE2C0"
+    },
+    {
+      "id": "outpost-engineering",
+      "name_en": "Outpost Engineering",
+      "name_zh": "前哨站工程",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "You can construct improved outpost modules, and research additional modules at a Research Lab.",
+      "summary_zh": "您可以构建改进的前哨模块，并在研究实验室研究其他模块。",
+      "rank_effects_en": [
+        "You can construct improved outpost modules, and research additional modules at a Research Lab.",
+        "You can research and construct superior outpost modules",
+        "You can research and construct cutting-edge outpost modules.",
+        "Outpost modules now cost 50% fewer resources to build."
+      ],
+      "rank_effects_zh": [
+        "您可以构建改进的前哨模块，并在研究实验室研究其他模块。",
+        "您可以研究和建造高级前哨模块",
+        "您可以研究和建造尖端的前哨模块。",
+        "前哨模块的构建成本现在减少了 50%。"
+      ],
+      "perk_id": "002C59E0"
+    },
+    {
+      "id": "aneutronic-fusion",
+      "name_en": "Aneutronic Fusion",
+      "name_zh": "非中子聚变",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Ship reactors produce 1 extra unit of power.",
+      "summary_zh": "船舶反应堆可额外产生 1 单位电力。",
+      "rank_effects_en": [
+        "Ship reactors produce 1 extra unit of power.",
+        "Ship reactors produce 2 extra units of power.",
+        "Ship reactors produce 3 extra units of power.",
+        "Ship reactors produce 5 extra units of power."
+      ],
+      "rank_effects_zh": [
+        "船舶反应堆可额外产生 1 单位电力。",
+        "船舶反应堆可额外产生 2 单位电力。",
+        "船舶反应堆可额外产生 3 个单位的电力。",
+        "船舶反应堆可额外产生 5 单位电力。"
+      ],
+      "perk_id": "002C2C5A"
+    },
+    {
+      "id": "planetary-habitation",
+      "name_en": "Planetary Habitation",
+      "name_zh": "行星定居",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You can build outposts on planets with extreme temperatures (Deep Freeze and Inferno). Increase the maximum number of Outposts you can build by 4.",
+      "summary_zh": "您可以在极端温度的行星（极寒和地狱）上建造前哨站。将您可以建造的前哨站的最大数量增加 4 个。",
+      "rank_effects_en": [
+        "You can build outposts on planets with extreme temperatures (Deep Freeze and Inferno). Increase the maximum number of Outposts you can build by 4.",
+        "You can build outposts on planets with extreme pressure. Increase the maximum number of Outposts you can build by 8.",
+        "You can build outposts on planets with toxic or corrosive atmospheres. Increase the maximum number of Outposts you can build by 12.",
+        "You can build outposts on planets with extreme gravity. Increase the maximum number of Outposts you can build by 16."
+      ],
+      "rank_effects_zh": [
+        "您可以在极端温度的行星（极寒和地狱）上建造前哨站。将您可以建造的前哨站的最大数量增加 4 个。",
+        "您可以在具有极高压力的行星上建立前哨站。将您可以建造的前哨站的最大数量增加 8 个。",
+        "您可以在具有有毒或腐蚀性气氛的行星上建立前哨站。将您可以建造的前哨站的最大数量增加 12 个。",
+        "您可以在具有极端重力的行星上建立前哨站。将您可以建造的前哨站的最大数量增加 16 个。"
+      ],
+      "perk_id": "0027CBC2"
+    },
+    {
+      "id": "special-projects",
+      "name_en": "Special Projects",
+      "name_zh": "特殊项目",
+      "category": "Science",
+      "category_color": "#a4ff8f",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "You can research experimental projects at a Research Lab.",
+      "summary_zh": "您可以在研究实验室研究实验项目。",
+      "rank_effects_en": [
+        "You can research experimental projects at a Research Lab.",
+        "You can craft rare manufactured components at an Industrial Workbench.",
+        "You can craft exotic manufactured components at an Industrial Workbench.",
+        "You can craft unique manufactured components at an Industrial Workbench. Outpost extractors have a chance to produce additional resources."
+      ],
+      "rank_effects_zh": [
+        "您可以在研究实验室研究实验项目。",
+        "您可以在工业工作台上制作稀有的制造组件。",
+        "您可以在工业工作台上制作奇异的制造组件。",
+        "您可以在工业工作台上制作独特的制造组件。前哨开采者有机会生产额外的资源。"
+      ],
+      "perk_id": "0004CE2D"
+    },
+    {
+      "id": "ballistic-weapon-systems",
+      "name_en": "Ballistic Weapon Systems",
+      "name_zh": "弹道武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Ballistic ship weapons have 10% increased damage and cost 20% less to use in Targeting Mode.",
+      "summary_zh": "在瞄准模式下，弹道舰船武器的伤害提高 10%，使用成本降低 20%。",
+      "rank_effects_en": [
+        "Ballistic ship weapons have 10% increased damage and cost 20% less to use in Targeting Mode.",
+        "Ballistic ship weapons have 20% increased damage and recharge 15% faster.",
+        "Ballistic ship weapons have 30% increased damage and recharge 30% faster.",
+        "Ballistic ship weapons do 50% more damage to individual systems."
+      ],
+      "rank_effects_zh": [
+        "在瞄准模式下，弹道舰船武器的伤害提高 10%，使用成本降低 20%。",
+        "弹道舰船武器的伤害提高 20%，充电速​​度加快 15%。",
+        "弹道舰船武器的伤害提高 30%，充电速​​度加快 30%。",
+        "弹道舰船武器对单个系统造成的伤害增加 50%。"
+      ],
+      "perk_id": "002CE2C2"
+    },
+    {
+      "id": "boost-pack-training",
+      "name_en": "Boost Pack Training",
+      "name_zh": "喷气背包训练",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "You can now utilize boost packs.",
+      "summary_zh": "您现在可以使用增强包。",
+      "rank_effects_en": [
+        "You can now utilize boost packs.",
+        "Using a boost pack expends less fuel.",
+        "Boost pack fuel regenerates more quickly",
+        "Doubles previous bonuses."
+      ],
+      "rank_effects_zh": [
+        "您现在可以使用增强包。",
+        "使用升压包消耗更少的燃料。",
+        "增压器燃料再生速度更快",
+        "之前的奖金翻倍。"
+      ],
+      "perk_id": "00146C2C"
+    },
+    {
+      "id": "piloting",
+      "name_en": "Piloting",
+      "name_zh": "驾驶",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "You can now utilize ship thrusters.",
+      "summary_zh": "您现在可以使用船舶推进器。",
+      "rank_effects_en": [
+        "You can now utilize ship thrusters.",
+        "Increased ship turning rate and maneuverability.",
+        "Unlock the ability to pilot Class B ships.",
+        "Unlock the ability to pilot Class C ships."
+      ],
+      "rank_effects_zh": [
+        "您现在可以使用船舶推进器。",
+        "提高船舶转弯速率和机动性。",
+        "解锁驾驶 B 级船舶的能力。",
+        "解锁驾驶 C 级船舶的能力。"
+      ],
+      "perk_id": "002CFCAC"
+    },
+    {
+      "id": "security",
+      "name_en": "Security",
+      "name_zh": "安保",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "You can attempt to hack Advanced locks, and 2 auto attempts can be banked.",
+      "summary_zh": "您可以尝试破解高级锁，并且可以存储 2 次自动尝试。",
+      "rank_effects_en": [
+        "You can attempt to hack Advanced locks, and 2 auto attempts can be banked.",
+        "You can attempt to hack Expert locks, and 3 auto attempts can be banked. Rings now turn blue when the pick can slotted.",
+        "You can attempt to hack Master-level locks, and 4 auto attempts can be banked.",
+        "Expend a digipick to eliminate keys that aren't required to solve the puzzle. 5 auto attempts can be banked."
+      ],
+      "rank_effects_zh": [
+        "您可以尝试破解高级锁，并且可以存储 2 次自动尝试。",
+        "您可以尝试破解专家锁，并且可以存储 3 次自动尝试。当镐可以开槽时，环现在会变成蓝色。",
+        "您可以尝试破解大师级锁，并且可以存储 4 次自动尝试。",
+        "使用数码镐来消除解决谜题不需要的钥匙。可以存储 5 次自动尝试。"
+      ],
+      "perk_id": "002CE2E2"
+    },
+    {
+      "id": "targeting-control-systems",
+      "name_en": "Targeting Control Systems",
+      "name_zh": "目标控制系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 1,
+      "tier_name_en": "Novice",
+      "summary_en": "Unlocks ship targeting functionality.",
+      "summary_zh": "解锁船舶瞄准功能。",
+      "rank_effects_en": [
+        "Unlocks ship targeting functionality.",
+        "Time to lock onto enemy ships is reduced by 15%. Target-locked ships fire at you 25% slower.",
+        "Time to lock onto enemy ships is reduced by 30%. You have a 10% increased chance of critically hitting a target-locked ship.",
+        "Time to lock onto enemy ships is reduced by 60%. Deal 20% increased system damage in targeting mode."
+      ],
+      "rank_effects_zh": [
+        "解锁船舶瞄准功能。",
+        "锁定敌舰的时间减少 15%。目标锁定舰艇向你开火的速度减慢 25%。",
+        "锁定敌舰的时间减少 30%。你对目标锁定的船只进行致命一击的几率增加 10%。",
+        "锁定敌舰的时间减少 60%。在瞄准模式下造成的系统伤害提高 20%。"
+      ],
+      "perk_id": "002C5559"
+    },
+    {
+      "id": "energy-weapon-systems",
+      "name_en": "Energy Weapon Systems",
+      "name_zh": "能量武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Energy ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+      "summary_zh": "在瞄准模式下，能量船武器的伤害提高 10%，使用成本降低 15%。",
+      "rank_effects_en": [
+        "Energy ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+        "Energy ship weapons have 20% increased damage and cost 30% less to use in Targeting Mode.",
+        "Energy ship weapons have 30% increased damage and cost 45% less to use in Targeting Mode.",
+        "Energy ship weapons recharge 30% faster."
+      ],
+      "rank_effects_zh": [
+        "在瞄准模式下，能量船武器的伤害提高 10%，使用成本降低 15%。",
+        "在瞄准模式下，能量船武器的伤害提高 20%，使用成本降低 30%。",
+        "在瞄准模式下，能量船武器的伤害提高 30%，使用成本降低 45%。",
+        "能量船武器充电速度加快 30%。"
+      ],
+      "perk_id": "002C59DB"
+    },
+    {
+      "id": "engine-systems",
+      "name_en": "Engine Systems",
+      "name_zh": "发动机系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Your ship's top speed is increased by 10%.",
+      "summary_zh": "你的船的最高速度增加 10%。",
+      "rank_effects_en": [
+        "Your ship's top speed is increased by 10%",
+        "Ship boosts last longer and the cooldown is shorter.",
+        "Your ship's top speed is increased by 20%.",
+        "While boosting, all enemies disengage the player and can only reacquire them as a target after the player stops boosting."
+      ],
+      "rank_effects_zh": [
+        "你的船的最高速度提高 10%",
+        "船舶提升持续时间更长，冷却时间更短。",
+        "你的船的最高速度提高了 20%。",
+        "在推进时，所有敌人都会脱离玩家，只有在玩家停止推进后才能重新将他们作为目标。"
+      ],
+      "perk_id": "002CE2DE"
+    },
+    {
+      "id": "payloads",
+      "name_en": "Payloads",
+      "name_zh": "有效载荷",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Ship cargo holds have 10% more capacity.",
+      "summary_zh": "船舶货舱容量增加 10%。",
+      "rank_effects_en": [
+        "Ship cargo holds have 10% more capacity.",
+        "Ship cargo holds have 20% more capacity.",
+        "Ship cargo holds have 30% more capacity.",
+        "Ship cargo holds have 50% more capacity."
+      ],
+      "rank_effects_zh": [
+        "船舶货舱容量增加 10%。",
+        "船舶货舱容量增加 20%。",
+        "船舶货舱容量增加 30%。",
+        "船舶货舱容量增加 50%。"
+      ],
+      "perk_id": "00143B6B"
+    },
+    {
+      "id": "shield-systems",
+      "name_en": "Shield Systems",
+      "name_zh": "护盾系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 2,
+      "tier_name_en": "Advanced",
+      "summary_en": "Your ship has 20% increased shield capacity.",
+      "summary_zh": "你的船的护盾容量增加了 20%。",
+      "rank_effects_en": [
+        "Your ship has 20% increased shield capacity.",
+        "Your ship has 40% increased shield capacity.",
+        "Your ship has 60% increased shield capacity.",
+        "Your shields will occasionally resist 100% of all damage received."
+      ],
+      "rank_effects_zh": [
+        "你的船的护盾容量增加了 20%。",
+        "你的船的护盾容量增加了 40%。",
+        "你的船的护盾容量增加了 60%。",
+        "你的护盾偶尔会抵抗 100% 受到的所有伤害。"
+      ],
+      "perk_id": "002C2C59"
+    },
+    {
+      "id": "missile-weapon-systems",
+      "name_en": "Missile Weapon Systems",
+      "name_zh": "导弹武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Ship missile weapons do 10% more damage, and their Targeting mode cost is reduced by 20%.",
+      "summary_zh": "舰载导弹武器造成的伤害提高 10%，其瞄准模式成本降低 20%。",
+      "rank_effects_en": [
+        "Ship missile weapons do 10% more damage, and their Targeting mode cost is reduced by 20%",
+        "Ship missile weapons do 20% more damage, and their Targeting mode cost is reduced by 40%.",
+        "Ship missile weapons do 30% more damage, and their Targeting mode cost is reduced by 60%.",
+        "Ship missiles have a 20% increased Range, Travel Speed, and Reload Speed."
+      ],
+      "rank_effects_zh": [
+        "舰载导弹武器造成的伤害提高 10%，其瞄准模式成本降低 20%",
+        "舰载导弹武器造成的伤害提高 20%，其瞄准模式成本降低 40%。",
+        "舰载导弹武器造成的伤害提高 30%，其瞄准模式成本降低 60%。",
+        "舰载导弹的射程、行进速度和装填速度提高 20%。"
+      ],
+      "perk_id": "002C5558"
+    },
+    {
+      "id": "particle-beam-weapon-systems",
+      "name_en": "Particle Beam Weapon Systems",
+      "name_zh": "粒子束武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Ship particle beam weapons do 10% more damage, and Targeting mode cost is reduced by 10%.",
+      "summary_zh": "舰船粒子束武器造成的伤害提高 10%，瞄准模式成本降低 10%。",
+      "rank_effects_en": [
+        "Ship particle beam weapons do 10% more damage, and Targeting mode cost is reduced by 10%.",
+        "Ship particle beam weapons do 20% more damage, and Targeting mode cost is reduced by 20%.",
+        "Ship particle beam weapons do 30% more damage, and Targeting mode cost is reduced by 30%.",
+        "Increased critical hit chance with ship particle beam weapons."
+      ],
+      "rank_effects_zh": [
+        "舰船粒子束武器造成的伤害提高 10%，瞄准模式成本降低 10%。",
+        "舰船粒子束武器造成的伤害提高 20%，瞄准模式成本降低 20%。",
+        "舰船粒子束武器造成的伤害提高 30%，瞄准模式成本降低 30%。",
+        "增加舰船粒子束武器的致命一击几率。"
+      ],
+      "perk_id": "002C2C5B"
+    },
+    {
+      "id": "robotics",
+      "name_en": "Robotics",
+      "name_zh": "机器人技术",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "You deal 10% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to stop fighting for a limited time.",
+      "summary_zh": "你对机器人和炮塔造成的伤害提高 10%。你可以强制比你高10级的目标机器人在有限的时间内停止战斗。",
+      "rank_effects_en": [
+        "You deal 10% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to stop fighting for a limited time.",
+        "You deal 20% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to flee for a limited time.",
+        "You deal 30% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to attack their allies for a limited time.",
+        "You can force a target robot up to 10 levels higher than you to obey commands for a limited time."
+      ],
+      "rank_effects_zh": [
+        "你对机器人和炮塔造成的伤害提高 10%。你可以强制比你高10级的目标机器人在有限的时间内停止战斗。",
+        "你对机器人和炮塔造成的伤害提高 20%。你可以在有限的时间内迫使比你高10级的目标机器人逃跑。",
+        "你对机器人和炮塔造成的伤害提高 30%。您可以强制比您高 10 级的目标机器人在有限时间内攻击其盟友。",
+        "你可以强迫比你高10级的目标机器人在有限的时间内服从命令。"
+      ],
+      "perk_id": "002C5553"
+    },
+    {
+      "id": "starship-design",
+      "name_en": "Starship Design",
+      "name_zh": "星舰设计",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "Allows the installation of improved ship modules.",
+      "summary_zh": "允许安装改进的船舶模块。",
+      "rank_effects_en": [
+        "Allows the installation of improved ship modules.",
+        "Allows the installation of superior ship modules.",
+        "Allows the installation of cutting-edge ship modules",
+        "Allows the installation of experimental ship modules."
+      ],
+      "rank_effects_zh": [
+        "允许安装改进的船舶模块。",
+        "允许安装高级船舶模块。",
+        "允许安装最先进的船舶模块",
+        "允许安装实验船模块。"
+      ],
+      "perk_id": "002C59DC"
+    },
+    {
+      "id": "starship-engineering",
+      "name_en": "Starship Engineering",
+      "name_zh": "星舰工程",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 3,
+      "tier_name_en": "Expert",
+      "summary_en": "All ship systems repair 10% faster.",
+      "summary_zh": "所有船舶系统的修复速度提高 10%。",
+      "rank_effects_en": [
+        "All ship systems repair 10% faster.",
+        "Ship systems have 25% Increased damage mitigation.",
+        "All ship systems repair 25% faster.",
+        "Occasionally, repairing one block of a system will repair the entire system."
+      ],
+      "rank_effects_zh": [
+        "所有船舶系统的修复速度提高 10%。",
+        "船舶系统的伤害减轻量增加 25%。",
+        "所有船舶系统的修复速度提高 25%。",
+        "有时，修复系统的一个模块就可以修复整个系统。"
+      ],
+      "perk_id": "002AC953"
+    },
+    {
+      "id": "automated-weapon-systems",
+      "name_en": "Automated Weapon Systems",
+      "name_zh": "自动武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Automated ship weapons do 10% more damage and reduce all targeting mode costs by 20%.",
+      "summary_zh": "自动化舰船武器造成的伤害提高 10%，所有瞄准模式成本降低 20%。",
+      "rank_effects_en": [
+        "Automated ship weapons do 10% more damage and reduce all targeting mode costs by 20%.",
+        "Automated ship weapons do 20% more damage and reduce all targeting mode costs by 30%. Your ship takes 20% less damage while in targeting mode.",
+        "Automated ship weapons do 30% more damage and reduce all targeting mode costs by 40%. Increases crit chance against targeted subsystems by 20%.",
+        "Ship turret weapons recharge 40% faster and do 20% more damage to targeted sub-systems."
+      ],
+      "rank_effects_zh": [
+        "自动化舰船武器造成的伤害提高 10%，所有瞄准模式成本降低 20%。",
+        "自动化舰船武器造成的伤害提高 20%，所有瞄准模式成本降低 30%。在瞄准模式下，你的飞船受到的伤害减少 20%。",
+        "自动化舰船武器造成的伤害提高 30%，所有瞄准模式成本降低 40%。对目标子系统的暴击几率提高 20%。",
+        "舰船炮塔武器的充电速度提高 40%，对目标子系统造成的伤害提高 20%。"
+      ],
+      "perk_id": "0027B9ED"
+    },
+    {
+      "id": "boost-assault-training",
+      "name_en": "Boost Assault Training",
+      "name_zh": "喷气突击训练",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "Nearby enemies take damage when you boost and have a chance to catch on fire.",
+      "summary_zh": "当你加速时，附近的敌人会受到伤害，并有机会着火。",
+      "rank_effects_en": [
+        "Nearby enemies take damage when you boost and have a chance to catch on fire.",
+        "Chance to knockdown nearby enemies when you boost.",
+        "Aiming down sights while boosting will let you hover in place. Fuel is still expended until empty.",
+        "While hovering, time slows down and the world moves 70% slower around you."
+      ],
+      "rank_effects_zh": [
+        "当你加速时，附近的敌人会受到伤害，并有机会着火。",
+        "当你提升时有机会击倒附近的敌人。",
+        "加速时瞄准目标可以让你悬停在原地。燃料仍会消耗直至耗尽。",
+        "悬停时，时间会变慢，您周围的世界移动速度会减慢 70%。"
+      ],
+      "perk_id": "0008C3EE"
+    },
+    {
+      "id": "em-weapon-systems",
+      "name_en": "EM Weapon Systems",
+      "name_zh": "电磁武器系统",
+      "category": "Tech",
+      "category_color": "#e2cbff",
+      "tier": 4,
+      "tier_name_en": "Master",
+      "summary_en": "EM ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+      "summary_zh": "在瞄准模式下，EM 舰船武器的伤害提高 10%，使用成本降低 15%。",
+      "rank_effects_en": [
+        "EM ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+        "EM ship weapons have 20% increased damage and cost 30% less to use in Targeting Mode.",
+        "EM ship weapons have 30% increased damage and cost 45% less to use in Targeting Mode.",
+        "EM ship weapons have a small chance of instantly disabling enemy engines."
+      ],
+      "rank_effects_zh": [
+        "在瞄准模式下，EM 舰船武器的伤害提高 10%，使用成本降低 15%。",
+        "在瞄准模式下，EM 舰船武器的伤害提高 20%，使用成本降低 30%。",
+        "在瞄准模式下，EM 舰船武器的伤害提高 30%，使用成本降低 45%。",
+        "电磁舰船武器有很小的几率立即使敌方引擎瘫痪。"
+      ],
+      "perk_id": "002C53B2"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "none",
+      "name_en": "None",
+      "name_zh": "无",
+      "summary_en": "No background bonuses applied.",
+      "summary_zh": "不启用任何背景加成。",
+      "starter_skill_ids": []
+    },
+    {
+      "id": "anonymous",
+      "name_en": "[File Not Found]",
+      "name_zh": "档案缺失",
+      "summary_en": "Oddly, there's no information on file about your past life. Clerical oversight? Deletion by some powerful unknown faction? Or was there just nothing of note to mention? Whatever the reason, your past is known only to you. What's important is the here and now, and the path you're about to forge.",
+      "summary_zh": "奇怪的是，档案里没有任何关于你过去的记录。是文书疏漏？被某个强大的未知派系刻意删除？又或者，你的过去本就无从查起？无论原因是什么，只有你自己知道真相。重要的是此时此刻，以及你接下来要开辟的道路。",
+      "starter_skill_ids": [
+        "wellness",
+        "ballistics",
+        "piloting"
+      ]
+    },
+    {
+      "id": "beast-hunter",
+      "name_en": "Beast Hunter",
+      "name_zh": "野兽猎人",
+      "summary_en": "From the Ashta of Akila to the Terrormorphs that plague the whole of the Settled Systems, hostile alien life abounds. You've learned the skills to track them, find them, and take them down.",
+      "summary_zh": "从阿基拉的阿什塔到困扰整个定居星系的恐怖变形体，敌对的外星生命比比皆是。你已经学会了追踪他们、找到他们并拿下他们的技能。",
+      "starter_skill_ids": [
+        "fitness",
+        "ballistics",
+        "gastronomy"
+      ]
+    },
+    {
+      "id": "bouncer",
+      "name_en": "Bouncer",
+      "name_zh": "保镖",
+      "summary_en": "You've worked the line at the toughest clubs in the Settled Systems. Back then, you learned that most non-lethal confrontations can be solved one of two ways: a strong right hook, or a more strongly secured door.",
+      "summary_zh": "你曾在定居体系中最艰苦的俱乐部里工作过。那时，您了解到大多数非致命对抗可以通过以下两种方式之一解决：强力的右勾拳，或者更坚固的门。",
+      "starter_skill_ids": [
+        "boxing",
+        "security",
+        "fitness"
+      ]
+    },
+    {
+      "id": "bounty-hunter",
+      "name_en": "Bounty Hunter",
+      "name_zh": "赏金猎人",
+      "summary_en": "Wherever there are wanted individuals, there are those who profit from their capture. And your quarry knows that in the vastness of space, they can run... but they can't hide.",
+      "summary_zh": "哪里有通缉犯，哪里就有从抓捕中获利的人。而你的猎物知道，在浩瀚的太空中，他们可以奔跑……但他们无法隐藏。",
+      "starter_skill_ids": [
+        "piloting",
+        "targeting-control-systems",
+        "boost-pack-training"
+      ]
+    },
+    {
+      "id": "chef",
+      "name_en": "Chef",
+      "name_zh": "厨师",
+      "summary_en": "While the unrefined masses scarfed down Chunks by the shipload, you catered to those with a more... discerning palate. In your kitchen, countless alien species became true culinary masterpieces.",
+      "summary_zh": "当粗俗的大众在成船的货物中狼吞虎咽时，你却迎合了那些口味更...挑剔的人。在你的厨房里，无数的外来物种成为了真正的烹饪杰作。",
+      "starter_skill_ids": [
+        "gastronomy",
+        "dueling",
+        "scavenging"
+      ]
+    },
+    {
+      "id": "combat-medic",
+      "name_en": "Combat Medic",
+      "name_zh": "战斗医疗兵",
+      "summary_en": "Leave it to human beings to fight over something as infinite as outer space. That's where you come in. You've never been afraid to take on the enemy... but you'd much rather take care of your friends.",
+      "summary_zh": "让人类去争夺像外太空这样无限的东西吧。这就是你的用武之地。你从不害怕与敌人较量……但你更愿意照顾你的朋友。",
+      "starter_skill_ids": [
+        "pistol-certification",
+        "medicine",
+        "wellness"
+      ]
+    },
+    {
+      "id": "cyber-runner",
+      "name_en": "Cyber Runner",
+      "name_zh": "赛博跑者",
+      "summary_en": "From Neon to New Atlantis, the megacorps stand as monuments to power, prestige and profit. You've worked both for and against them, on the inside and out, often sacrificing conscience for credits.",
+      "summary_zh": "从霓虹灯到新亚特兰蒂斯，巨型企业是权力、声望和利润的纪念碑。你既支持他们，也反对他们，从里到外，常常为了学分而牺牲良心。",
+      "starter_skill_ids": [
+        "stealth",
+        "security",
+        "theft"
+      ]
+    },
+    {
+      "id": "cyberneticist",
+      "name_en": "Cyberneticist",
+      "name_zh": "控制论学家",
+      "summary_en": "Robots? Mere toys. Neuroamps? Good for parlor tricks. The Colony War may have made implants and upgrades available to veterans, but you once saw a greater future. Humans and machines, as one.",
+      "summary_zh": "机器人？只是玩具。神经安培？适合客厅技巧。殖民地战争可能为退伍军人提供了植入和升级，但您曾经看到了更美好的未来。人与机器，合而为一。",
+      "starter_skill_ids": [
+        "medicine",
+        "security",
+        "lasers"
+      ]
+    },
+    {
+      "id": "diplomat",
+      "name_en": "Diplomat",
+      "name_zh": "外交官",
+      "summary_en": "The wars are over. Peace now reigns in the Settled Systems. But only because there are those quietly fighting to keep it. Because of you, agreements were signed, words were heeded... lives were spared.",
+      "summary_zh": "战争结束了。和平现在统治着定居星系。但这只是因为有人默默地为保住它而奋斗。因为你们，协议得以签署，言论得到重视……生命得以幸免。",
+      "starter_skill_ids": [
+        "persuasion",
+        "commerce",
+        "wellness"
+      ]
+    },
+    {
+      "id": "explorer",
+      "name_en": "Explorer",
+      "name_zh": "探险家",
+      "summary_en": "They said exploration is a lost art. You didn't listen. As the major factions argued over the space they desperately tried to control, you were busy uncovering the wonders of the Settled Systems.",
+      "summary_zh": "他们说探索是一门失落的艺术。你没听。当主要派系为他们拼命控制的空间争论不休时，你正忙着揭开定居星系的奇迹。",
+      "starter_skill_ids": [
+        "lasers",
+        "astrodynamics",
+        "surveying"
+      ]
+    },
+    {
+      "id": "gangster",
+      "name_en": "Gangster",
+      "name_zh": "黑帮",
+      "summary_en": "You were always disgusted by suckers killing themselves to make an \"honest wage.\" As soon as you were old enough to hold a weapon, you took what you wanted from anyone unlucky enough to have it.",
+      "summary_zh": "你总是对傻瓜为了赚取“诚实的工资”而自杀感到厌恶。一旦你长大到可以持有武器，你就可以从那些不幸拥有它的人那里夺走你想要的东西。",
+      "starter_skill_ids": [
+        "shotgun-certification",
+        "boxing",
+        "theft"
+      ]
+    },
+    {
+      "id": "homesteader",
+      "name_en": "Homesteader",
+      "name_zh": "自耕者",
+      "summary_en": "The discovery of the Settled System' many oxygen-rich planets and moons meant humans could live just about anywhere... if they had the know how. You did, and utilized it to great effect.",
+      "summary_zh": "定居星系中许多富含氧气的行星和卫星的发现意味着人类可以生活在几乎任何地方……如果他们掌握了诀窍的话。你做到了，并且利用它取得了巨大的效果。",
+      "starter_skill_ids": [
+        "geology",
+        "surveying",
+        "weight-lifting"
+      ]
+    },
+    {
+      "id": "industrialist",
+      "name_en": "Industrialist",
+      "name_zh": "实业家",
+      "summary_en": "There was a time when all you wanted to be was a titan of industry, maybe a ship designer or megacorp exec. Thankfully, that skillset never goes out of style in the settled systems.",
+      "summary_zh": "曾经有一段时间，你想成为的只是工业巨头，也许是船舶设计师或大型企业的高管。值得庆幸的是，这种技能在既定系统中永远不会过时。",
+      "starter_skill_ids": [
+        "persuasion",
+        "security",
+        "research-methods"
+      ]
+    },
+    {
+      "id": "long-hauler",
+      "name_en": "Long Hauler",
+      "name_zh": "长途货运者",
+      "summary_en": "Let those other hothead pilots obsess over laser weapons and maneuverability. You're a space trucker, pure and simple. Pack the cargo, get it there fast, get paid, repeat. Life is simple and good.",
+      "summary_zh": "让那些头脑发热的飞行员沉迷于激光武器和机动性吧。你是一名太空卡车司机，纯粹而简单。打包货物，快速到达目的地，获得报酬，如此重复。生活简单而美好。",
+      "starter_skill_ids": [
+        "weight-lifting",
+        "piloting",
+        "ballistic-weapon-systems"
+      ]
+    },
+    {
+      "id": "pilgrim",
+      "name_en": "Pilgrim",
+      "name_zh": "朝圣者",
+      "summary_en": "Wayfarer, wanderer, seeker... transient. You've been called many things during your travels, and learned something those others could never understand - the journey IS the destination.",
+      "summary_zh": "旅人、流浪者、探寻者……转瞬即逝。在旅途中，您被称为许多东西，并学到了其他人永远无法理解的东西 - 旅程就是目的地。",
+      "starter_skill_ids": [
+        "scavenging",
+        "surveying",
+        "gastronomy"
+      ]
+    },
+    {
+      "id": "professor",
+      "name_en": "Professor",
+      "name_zh": "教授",
+      "summary_en": "You've always enjoyed learning, but nothing could compare to the joy of teaching others. As humankind spread throughout the stars, there was never a lack of knowledge to obtain, and you gladly assisted.",
+      "summary_zh": "你一直很享受学习，但没有什么比教别人的乐趣更重要的了。当人类遍布星际时，从来不缺乏获取的知识，而你很乐意提供帮助。",
+      "starter_skill_ids": [
+        "astrodynamics",
+        "geology",
+        "research-methods"
+      ]
+    },
+    {
+      "id": "ronin",
+      "name_en": "Ronin",
+      "name_zh": "浪人",
+      "summary_en": "Masterless and unbound, you wandered the Settled Systems as a blade for hire. To some, you were a simple mercenary. To others, a hero. And to a select few... a nightmare they could never wake from.",
+      "summary_zh": "你无主无拘，无拘无束，作为一名受雇的刀锋在定居星系中徘徊。对某些人来说，你只是一个简单的雇佣兵。对别人来说，是英雄。对于少数人来说……这是他们永远无法醒来的噩梦。",
+      "starter_skill_ids": [
+        "dueling",
+        "stealth",
+        "scavenging"
+      ]
+    },
+    {
+      "id": "sculptor",
+      "name_en": "Sculptor",
+      "name_zh": "雕塑家",
+      "summary_en": "With your knowledge of anatomy and skilled, steady hands, you could have become a surgeon. Instead, you followed your heart, and created works of art to amaze and inspire.",
+      "summary_zh": "凭借您的解剖学知识和熟练、稳定的双手，您本可以成为一名外科医生。相反，您追随自己的内心，创作出令人惊叹和启发的艺术作品。",
+      "starter_skill_ids": [
+        "medicine",
+        "geology",
+        "persuasion"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name_en": "Soldier",
+      "name_zh": "士兵",
+      "summary_en": "The Settled Systems is no stranger to warfare, and if there's one thing armed conflict relies on it's trained warriors with guns and guts. You had both. Simple, bloody work... and you were great at it.",
+      "summary_zh": "定居星系对战争并不陌生，如果说武装冲突有一件事依赖于训练有素、拥有枪支和勇气的战士。你两者都有。简单、血腥的工作……而你却很擅长。",
+      "starter_skill_ids": [
+        "fitness",
+        "ballistics",
+        "boost-pack-training"
+      ]
+    },
+    {
+      "id": "space-scoundrel",
+      "name_en": "Space Scoundrel",
+      "name_zh": "太空无赖",
+      "summary_en": "Good? Bad? Whose right is it to say? If there's anything you've learned traipsing through the galaxy, it's this: space may look black, but it's really one shade of grey.",
+      "summary_zh": "好的？坏的？谁有权利说？如果说你在银河系中学到了什么的话，那就是：太空可能看起来是黑色的，但它实际上是一种灰色。",
+      "starter_skill_ids": [
+        "pistol-certification",
+        "piloting",
+        "persuasion"
+      ]
+    },
+    {
+      "id": "xenobiologist",
+      "name_en": "Xenobiologist",
+      "name_zh": "外星生物学家",
+      "summary_en": "The Settled Systems is home to untold alien species. And while none of them have yet proven sentient, that never deterred you. So you sought out and studied them for whatever gifts they offered.",
+      "summary_zh": "定居星系是无数外来物种的家园。虽然它们都还没有被证明有感知能力，但这并没有阻止你。所以你寻找并研究他们所提供的任何天赋。",
+      "starter_skill_ids": [
+        "lasers",
+        "surveying",
+        "fitness"
+      ]
+    }
+  ]
+}
