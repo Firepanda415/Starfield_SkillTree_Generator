@@ -1,6 +1,6 @@
-# Starfield 技能代码生成器 / Starfield Skill Command Generator
+# 星空技能代码生成器 / Starfield Skill Command Generator
 
-离线版 Starfield 技能规划网页。直接双击 `index.html` 即可在本地浏览器中打开，不需要 Python 服务。
+离线版《星空》技能规划网页。直接双击 `index.html` 即可在本地浏览器中打开，不需要 Python 服务。
 
 Offline Starfield skill planner. Double-click `index.html` to open it locally in your browser with no web server required.
 
@@ -56,7 +56,7 @@ Offline Starfield skill planner. Double-click `index.html` to open it locally in
 
 ### 中文数据说明
 
-- Bethesda 官方已确认《Starfield》支持简体中文界面/文本：
+- Bethesda 官方已确认《星空》支持简体中文界面/文本：
   [Bethesda Support](https://help.bethesda.net/app/answers/detail/a_id/60444/~/what-languages-does-starfield-support%3F)
 - 但目前没有找到一套公开、完整、可直接抓取的官方中文技能 / 背景页面
 - 因此仓库内置了一份本地简体中文翻译数据，用于技能名、背景名、技能简介和等级效果显示

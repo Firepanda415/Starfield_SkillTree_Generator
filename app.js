@@ -49,7 +49,7 @@
       tierLockedHint: "Requires {points} points in the {tree} tree.",
     },
     zh: {
-      appTitle: "Starfield 技能代码生成器",
+      appTitle: "星空技能代码生成器",
       appSubtitle:
         "本地规划技能配置，并直接下载可用的控制台命令文件。流程说明：先运行 sf-remove-skills.txt 洗点，再运行 sf-skills.txt。洗点文件会把所选背景技能补回 1 级，加点文件只补剩余等级；读取技能文件时，也要先选和文件相同的背景。",
       minLevel: "最低所需等级",
