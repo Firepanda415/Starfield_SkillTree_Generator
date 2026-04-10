@@ -1,8 +1,8 @@
 # 星空技能代码生成器 / Starfield Skill Command Generator
 
-离线版《星空》技能规划网页。直接双击 `index.html` 即可在本地浏览器中打开，不需要 Python 服务。
+离线版《星空》技能规划网页。可直接访问 [网页版本](https://firepanda415.github.io/Starfield_SkillTree_Generator/) 或者本地克隆仓库后直接双击 `index.html` 即可在本地浏览器中打开，不需要 Python 服务。
 
-Offline Starfield skill planner. Double-click `index.html` to open it locally in your browser with no web server required.
+Offline Starfield skill planner. Directly visit [Webpage](https://firepanda415.github.io/Starfield_SkillTree_Generator/) or clone the repo locally and double-click `index.html` to open it locally in your browser with no web server required.
 
 ## 中文说明
 
