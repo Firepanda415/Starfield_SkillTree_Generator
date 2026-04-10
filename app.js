@@ -13,7 +13,7 @@
     en: {
       appTitle: "Starfield Skill Command Generator",
       appSubtitle:
-        "Build your skill setup locally, then download ready-to-use perk command files. Workflow: run sf-remove-skills.txt first, then sf-skills.txt. The remove file adds the selected background skills back once, the skill file adds only the remaining ranks, and loading a skill file assumes you already selected the same background.",
+        "Build your skill setup locally, then download ready-to-use perk command files. In game, open the console with `~` and run `bat sf-remove-skills.txt` to respec, then run `bat sf-skills.txt` to apply the build. The remove file adds the selected background skills back once, the skill file adds only the remaining ranks, and loading a skill file assumes you already selected the same background.",
       minLevel: "Minimum Level",
       spentPoints: "Spent Skill Points",
       language: "Language",
@@ -51,7 +51,7 @@
     zh: {
       appTitle: "星空技能代码生成器",
       appSubtitle:
-        "本地规划技能配置，并直接下载可用的控制台命令文件。流程说明：先运行 sf-remove-skills.txt 洗点，再运行 sf-skills.txt。洗点文件会把所选背景技能补回 1 级，加点文件只补剩余等级；读取技能文件时，也要先选和文件相同的背景。",
+        "本地规划技能配置，并直接下载可用的控制台命令文件。游戏内按 `· / ~` 打开控制台，输入 `bat sf-remove-skills.txt` 可洗点，再输入 `bat sf-skills.txt` 可加点。洗点文件会把所选背景技能补回 1 级，加点文件只补剩余等级；读取技能文件时，也要先选和文件相同的背景。",
       minLevel: "最低所需等级",
       spentPoints: "已消耗技能点",
       language: "语言",
