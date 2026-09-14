@@ -151,3 +151,7 @@ This regenerates:
 The local Chinese translation source lives in:
 
 - `data/translations_zh.json`
+
+## Automatic website publishing
+
+Pushes to `main` trigger the `personal-website` publishing workflow via `.github/workflows/publish-website.yml`. Configure the Actions secret `WEBSITE_PUBLISH_TOKEN` with a fine-grained token restricted to `Firepanda415/personal-website`, granting **Actions: Read and write**. Local commits take effect after pushing. Renew this secret when the token expires.

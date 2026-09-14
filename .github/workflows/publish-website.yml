@@ -1,0 +1,14 @@
+name: Publish personal website
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions: {}
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website deployment
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_PUBLISH_TOKEN }}
+        run: gh workflow run pages.yml --repo Firepanda415/personal-website --ref main
